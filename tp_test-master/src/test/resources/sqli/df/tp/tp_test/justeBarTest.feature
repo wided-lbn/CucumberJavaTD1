@@ -33,8 +33,8 @@ Feature: JusteBar Test story
     
    
 Examples:
-      |  maxcap |  b  |  c  | status   | entry | NbCocktail | HumeurP        |
-      |    10   |  9  |  2  | "NoFull" | "No"  |  0         |    "N/A"       |
-      |    10   |  8  |  2  | "NoFull" | "Yes" |  1			    |    "Happy"     |
-      |    10   |  3  |  2  | "NoFull" | "Yes" |  2			    |     "Sad"      |
+      | maxcap |  b  |  c  |  status  | entry | NbCocktail | HumeurP |
+      |   10   |  9  |  2  | "NoFull" | "No"  |  0         |  "N/A"  |
+      |   10   |  8  |  2  | "NoFull" | "Yes" |  1			   | "Happy" |
+      |   10   |  3  |  2  | "NoFull" | "Yes" |  2			   |  "Sad"  |
 
